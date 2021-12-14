@@ -1,0 +1,13 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.exclude": {
+        "**/.vscode": true,
+        "compile_commands.json": true,
+        "*.hrccproj": true,
+        "*.sln": true,
+        "*.suo": true
+    },
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.allowMnemonics": true
+}
