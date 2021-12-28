@@ -7,7 +7,5 @@
         "*.sln": true,
         "*.suo": true
     },
-    "files.autoGuessEncoding": true,
-    "files.autoSave": "onFocusChange",
-    "terminal.integrated.allowMnemonics": true
+    "files.autoGuessEncoding": true
 }
